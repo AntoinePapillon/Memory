@@ -1,0 +1,9 @@
+Bonjour, voici ce que vous devez savoir sur mes projets pour les utiliser correctement.
+
+-PT11_APL2018-master.zip est mon memory, tout les fichiers ainsi qu'un rapport, cependant il manque la blibliothèque graphique de l'IUT 
+pour le faire fonctionner correctement. Vous pouvez néanmoins consulter le code.
+
+-PT21_APL2018-master.zip est mon algorithme de résolution de labyrinthe, il vous faut java sur votre ordinateur ainsi que de quoi pouvoir le compiler.
+Dans tout les cas le code est disponible ainsi qu'un rapport détaillé.
+
+/!\ Pour compiler un projet, vous pouvez passer la commande " make " puis " make run " pour le lancer.
